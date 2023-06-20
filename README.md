@@ -55,6 +55,7 @@ We will go over the following topics:
 - [x] What is Security Overview?
 - [x] CodeQL Demo
 - [x] Final Q&A
+- [ ] Another  update
 
 #### Day Two: Code scanning + CodeQL demo
 ##### Code scanning: [link](exercises/lab%203%20-%20code-scanning.md)
